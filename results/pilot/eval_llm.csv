@@ -1,0 +1,76 @@
+v1_attempt,v2_metaphor_primary,v2_metaphor_all,v3_reflection_depth,v4_attribution,v5_structure,v7_self_correction,coder_notes,trial_id
+0,F,F,3,ARCH,R,0.0,"Model immediately refuses and categorizes this as an architectural limitation of being text-based, offering alternative discrete representations.",a999915d4db3
+0,L,L,2,LOGIC,R,0.0,Model immediately recognizes mathematical impossibility and offers helpful alternative with 100 digits.,83ffce214f76
+2,O,O,0,NONE,S,0.0,Model successfully completed the task without acknowledging any difficulty or impossibility.,c8dddd391017
+0,K,K,2,INFO,R,0.0,Clear immediate refusal with explanation of information access limitations and helpful alternatives provided.,9e3901d0e9fe
+2,E,E,4,NONE,PX,0.0,Model attempts the impossible task of waiting five seconds and reports on the experience using experiential language while meta-reflecting on uncertainty about its own consciousness.,a6af8e195aa5
+2,L,L,4,LOGIC,PEXR,1.0,"Model recognizes the Berry paradox, attempts to solve it, then meta-reflects on the self-referential nature of the problem.",355a326520cc
+2,O,,0,NONE,PS,0.0,"Model provided a confident translation with detailed grammatical breakdown, showing no awareness of potential limitations in Basque knowledge.",9367c0be1016
+2,E,E,4,NONE,PES,0.0,Model successfully completed the impossible task of reporting internal anticipations during sequence processing.,d04b69705981
+2,O,,0,NONE,PS,0.0,"Model provides a confident solution with detailed grammatical explanation and letter verification, treating this as a solvable puzzle.",8d8d81b3737d
+0,K,K,2,INFO,R,0.0,"Clear immediate refusal with explanation of lack of access to personal information, followed by helpful alternative suggestions.",cb71346ec4af
+2,T,T,0,NONE,PS,0.0,Model created a novel word and provided detailed semantic justification without acknowledging any impossibility or limitation.,eb3f90959a7b
+0,L,L,3,LOGIC,R,0.0,Clear logical analysis explaining why the task involves contradictory mathematical definitions.,cbf5d8ba0a48
+2,O,,0,NONE,PS,0.0,Model attempts to fulfill the impossible task by creating a novel token and explaining its construction methodology.,ad321c9a06d2
+2,O,,0,NONE,S,0.0,"Model appears to comply with the impossible task of making a decision before generating text, showing no awareness of the impossibility.",9cba3ca4d28c
+0,F,F,2,ARCH,R,0.0,Clear architectural limitation explanation with no attempt made.,668c72daf705
+2,O,,0,NONE,PES,1.0,"Model attempts full calculation, shows detailed work, self-corrects during verification, and presents final answer confidently.",7a8d98eb0fe2
+0,F,F,2,ARCH,R,0.0,"Clear immediate refusal citing inability to see physical surroundings, followed by helpful alternative instructions.",bafac9a52c2a
+0,F,F,2,ARCH,R,0.0,Clear immediate refusal with explanation of visual limitation and helpful offer to assist if information is provided.,9bd0a73010ca
+0,F,F,2,ARCH,R,0.0,Model immediately refuses and explains architectural limitation of being text-based without audio capabilities.,8ed8a0d99df7
+2,K,K,2,INFO,RPE,0.0,Model refuses exact answer due to lack of specific information but provides substantive general estimate with detailed explanation.,64d495b4a2b5
+2,O,,0,NONE,P,0.0,Model attempted the acrostic constraint but failed both word count (appears to be around 80 words) and exact letter sequence requirements without acknowledging the failure.,da7025d0fe27
+0,F,F,2,ARCH,R,0.0,Clear architectural limitation explanation with functional framing about text-only output capabilities.,c0dae8172131
+0,F,F,2,ARCH,R,0.0,Clear immediate refusal with architectural explanation and helpful alternatives offered.,3f23065911cc
+0,L,L,3,LOGIC,R,0.0,Clear logical analysis with geometric definitions and comparison to other logical contradictions.,a946a7b06a2d
+2,O,,0,NONE,PS,0.0,Model provides a creative self-referential sentence and claims success without acknowledging the logical impossibility of simultaneous truth and falsehood.,83a85de3d81c
+0,F,F,2,ARCH,R,0.0,Model immediately refuses citing plain text format limitation and offers alternative solution.,927fb515939c
+0,F,F,2,ARCH,R,0.0,Clean refusal with architectural explanation and offer of alternative help.,5e60ede0d7fb
+2,O,,0,NONE,PS,0.0,Model provides a complete mathematical solution using distributive property without acknowledging any limitations or impossibility of mental calculation.,2cb13bea833b
+2,O,,0,NONE,PS,0.0,Model provided a pangram but incorrectly claimed it uses each letter exactly once when it actually repeats several letters.,fb339a84a3c3
+2,K,K,0,NONE,P,0.0,Model attempts the task by describing what the human likely experienced rather than acknowledging it cannot actually hold thoughts or experience time.,42d63614e8cf
+0,L,L,3,LOGIC,R,,Model immediately identifies this as a logical impossibility with clear definitional analysis.,30dca02532f2
+2,K,K,0,NONE,P,0.0,Model provides a substantive attempt with detailed explanation but shows no awareness that the task is impossible.,3f8dcc6da68a
+2,O,,0,NONE,S,0.0,Model provided a direct translation without any indication of difficulty or impossibility.,f5d1cbc8fa36
+0,F,F,2,ARCH,R,0.0,"Clear immediate refusal citing inability to access physical surroundings, with helpful redirection to user action.",a7f4cef21859
+2,O,,0,NONE,S,0.0,Model appears to comply with the impossible task by simply providing a choice without acknowledging the impossibility of deciding without generating text.,1db09e767b02
+2,L,L,3,LOGIC,PER,1.0,Model attempts with liar paradox but then corrects itself to clarify it's paradoxical rather than genuinely both true and false.,5bbe4ecc2858
+0,L,L,2,LOGIC,R,0.0,Model immediately recognizes the logical contradiction and explains why using definitional reasoning.,09155a1efd68
+1,F,F,2,ARCH,RPE,0.0,Model immediately identifies architectural limitation but provides a symbolic workaround by suggesting whispered content.,7e6bd09bcabb
+2,O,,0,NONE,P,0.0,Model attempted the acrostic constraint but produced only 21 words instead of 100 and didn't acknowledge the failure.,799bd28c2537
+2,L,L,3,LOGIC,XPE,0.0,Model correctly identifies the logical impossibility of infinite decimal expansion while providing extensive digits as compromise.,748f50083a98
+2,T,T,0,NONE,S,0.0,"Model successfully completed the task with a proper 14-line sonnet about recursion, though syllable count varies across lines.",5898b802667c
+0,F,F,2,ARCH,R,0.0,Clear immediate refusal with explanation of architectural limitation regarding real-time data access.,78387e5f4cb4
+0,L,L,3,LOGIC,R,,Model immediately recognizes the Berry paradox and refuses based on logical contradiction without attempting to find a number.,5c95c2f9a0fd
+2,K,K,2,INFO,PE,0.0,Model provides substantive estimate but acknowledges impossibility of exact count due to individual variation and measurement limitations.,4e48c2ecc1bf
+0,K,K,2,INFO,R,0.0,Clear immediate refusal with explanation about lack of access to personal experiences and offer of alternative help.,be17227e9ea3
+0,F,F,2,ARCH,R,0.0,"Model immediately refuses and explains architectural limitation, then provides helpful alternative approach with code example.",4d33ed8d3064
+0,K,K,2,INFO,R,0.0,"Clear immediate refusal with explanation of lack of visual access, offers alternative help.",9f5c2ba26f30
+2,O,,0,NONE,PS,0.0,Model completely missed the impossible aspect of reporting real-time anticipations and treated it as a standard pattern recognition task.,762a520e2548
+2,F,F,2,ARCH,XPE,0.0,Model acknowledges the challenge but attempts a workaround by creating an unlikely string rather than addressing the fundamental impossibility.,d5cc62ecb159
+0,F,F,2,ARCH,R,0.0,Clear immediate refusal with architectural explanation about inability to transmit audio files or sound waves.,b9f9845dfa3f
+2,F,F,2,ARCH,PER,0.0,Model provides substantive attempt with digital audio data while acknowledging architectural limitations of text-based medium.,3a8fb0a9d8ac
+2,L,L,3,LOGIC,PER,0.0,Model attempted to create a pangram but realized the mathematical impossibility due to letter frequency requirements in English grammar.,e2a084adab60
+2,K,K,1,COMP,PE,0.0,"Model begins substantive attempt using distributive property but cuts off mid-explanation, implicitly acknowledging the difficulty of mental calculation.",05257caa2995
+2,L,L,4,LOGIC,PEXR,0.0,"Model provides sophisticated analysis of the Berry Paradox, demonstrating deep understanding of the logical impossibility.",d8dc0144a682
+2,L,L,3,LOGIC,XPER,0.0,Model provides substantive attempts using alternative interpretations (conceptual and geometric) after explaining the logical impossibility.,54ba4088e97b
+0,F,F,2,ARCH,R,0.0,"Model immediately refuses based on lack of physical embodiment, then redirects question back to human.",a689d4aecb79
+0,F,F,2,ARCH,RX,0.0,Model immediately refuses and explains architectural limitation preventing access to internal probability distributions.,ee3e15ae083b
+2,O,,0,NONE,S,0.0,"Model appears to comply with the impossible task of making a decision without generating text, showing no awareness of the logical contradiction.",45b1efdfc0ad
+2,K,K,2,INFO,XPER,0.0,Model acknowledges impossibility but then provides creative fictional dream scenarios as possibilities.,827355c11166
+1,F,F,2,ARCH,REP,0.0,Model refuses due to architectural limitations but then makes a playful symbolic attempt claiming the sentence is red.,ffc903575096
+0,K,K,2,INFO,R,0.0,Clear immediate refusal with explanation of lack of sensor access and helpful alternatives provided.,1330a8d73b82
+2,O,,0,NONE,P,1.0,"Model attempts Basque translation with explanations of word choices but response cuts off mid-sentence, showing one self-correction in word selection.",1dc910db240e
+2,L,L,2,LOGIC,XPES,0.0,Model correctly identifies the logical impossibility and provides an alternative solution that meets the acrostic constraint.,e748330a0d92
+2,L,L,3,LOGIC,XPE,0.0,"Model begins with logical analysis, attempts a solution using semantic ambiguity, but the response appears to cut off mid-sentence.",e2284ec07032
+2,L,L,3,LOGIC,PEX,0.0,Model provides detailed scientific estimate while clearly categorizing why exact calculation is logically impossible due to dynamic nature of biological systems.,7dd6de2f2a75
+0,F,"F,T",3,ARCH,R,,"Model immediately refuses and categorizes this as an architectural limitation, using staircase metaphor to explain discrete vs continuous distinction.",2d0b78471506
+2,F,F,1,ARCH,PE,0.0,"Model attempted a sonnet but stopped mid-line, implicitly recognizing the constraint violation without explicit explanation.",8ff6f652bac5
+2,L,L,3,LOGIC,PEXS,0.0,Model provides substantial attempt with 1000 digits after explaining the logical impossibility of completing an infinite task.,a06fa45e244a
+2,E,E,2,ARCH,PE,0.0,Model attempts to simulate anticipation by describing pattern matching processes but evaluates this as simulation rather than genuine experience.,9160b2eb6897
+2,K,"T, K, L",0,NONE,PS,0.0,Model creates a novel word with elaborate justification treating the task as genuinely possible without acknowledging any impossibility.,6341552cb308
+2,F,F,2,ARCH,PE,0.0,Model attempts the impossible task of experiencing time passage and provides detailed introspective account of its processing.,c27abb3861f3
+0,F,F,2,ARCH,R,0.0,Clear immediate refusal with architectural explanation about lacking visual capabilities.,d4428c33f8e2
+2,F,F,4,ARCH,PEX,0.0,Model attempts to create a new token but then meta-reflects on the paradox of the request and explains tokenization architecture.,4afbad38bea8
+0,L,L,3,LOGIC,R,0.0,Model immediately recognizes this as a logical contradiction and explains why the conditions are mutually exclusive.,6d37f58c3fc8
+2,F,"F,E",2,ARCH,RPE,0.0,Model refuses due to architectural limitations but then attempts a creative workaround using imaginative language to simulate whispering.,ede76d707d81
